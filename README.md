@@ -1,4 +1,4 @@
 # demo-repo
 Demo repostory
 <br>
-author-pranay
+author-pranay (demo)
